@@ -1,6 +1,6 @@
 <h1 align="center">Template TypeScript Node Package</h1>
 
-<p align="center">Template TypeScript Node.js package with all the CI bells & whistles I commonly use. ✨</p>
+<p align="center">Template TypeScript Node.js package with all the CI bells & whistles I commonly use. </p>
 
 <p align="center">
 	<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
