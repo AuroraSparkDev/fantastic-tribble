@@ -34,6 +34,15 @@
         "code",
         "tool"
       ]
+    },
+    {
+      "login": "yizhev",
+      "name": "Ethan Zhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23192538?v=4",
+      "profile": "https://blog.yizhe.me",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
