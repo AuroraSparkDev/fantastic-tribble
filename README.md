@@ -5,7 +5,7 @@
 <p align="center">
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 	<img alt="Code Style: Prettier" src="https://img.shields.io/badge/code_style-prettier-21bb42.svg" />
 	<a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package/blob/main/.github/CODE_OF_CONDUCT.md">
@@ -47,6 +47,7 @@ Thanks! 💖
     <tr>
       <td align="center"><a href="http://www.joshuakgoldberg.com"><img src="https://avatars.githubusercontent.com/u/3335181?v=4?s=100" width="100px;" alt="Josh Goldberg"/><br /><sub><b>Josh Goldberg</b></sub></a><br /><a href="https://github.com/sinchang-codespaces/fantastic-tribble/issues?q=author%3AJoshuaKGoldberg" title="Bug reports">🐛</a> <a href="https://github.com/sinchang-codespaces/fantastic-tribble/commits?author=JoshuaKGoldberg" title="Code">💻</a> <a href="#content-JoshuaKGoldberg" title="Content">🖋</a> <a href="#example-JoshuaKGoldberg" title="Examples">💡</a> <a href="#ideas-JoshuaKGoldberg" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-JoshuaKGoldberg" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-JoshuaKGoldberg" title="Maintenance">🚧</a> <a href="#platform-JoshuaKGoldberg" title="Packaging/porting to new platform">📦</a> <a href="#projectManagement-JoshuaKGoldberg" title="Project Management">📆</a> <a href="https://github.com/sinchang-codespaces/fantastic-tribble/pulls?q=is%3Apr+reviewed-by%3AJoshuaKGoldberg" title="Reviewed Pull Requests">👀</a> <a href="#security-JoshuaKGoldberg" title="Security">🛡️</a> <a href="#tool-JoshuaKGoldberg" title="Tools">🔧</a> <a href="https://github.com/sinchang-codespaces/fantastic-tribble/commits?author=JoshuaKGoldberg" title="Tests">⚠️</a></td>
       <td align="center"><a href="https://sinchang.me"><img src="https://avatars.githubusercontent.com/u/3297859?v=4?s=100" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="#infra-sinchang" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/sinchang-codespaces/fantastic-tribble/commits?author=sinchang" title="Tests">⚠️</a> <a href="https://github.com/sinchang-codespaces/fantastic-tribble/commits?author=sinchang" title="Code">💻</a> <a href="#tool-sinchang" title="Tools">🔧</a></td>
+      <td align="center"><a href="https://blog.yizhe.me"><img src="https://avatars.githubusercontent.com/u/23192538?v=4?s=100" width="100px;" alt="Ethan Zhao"/><br /><sub><b>Ethan Zhao</b></sub></a><br /><a href="#infra-yizhev" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
 </table>
