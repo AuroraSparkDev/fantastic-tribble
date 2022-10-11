@@ -31,7 +31,8 @@
       "contributions": [
         "infra",
         "test",
-        "code"
+        "code",
+        "tool"
       ]
     }
   ],
